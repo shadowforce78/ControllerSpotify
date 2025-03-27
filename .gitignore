@@ -1,4 +1,6 @@
 .qodo
 .venv
+.env
 .venv-linux
+.cache
 __pycache__
